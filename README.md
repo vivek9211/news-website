@@ -1,5 +1,6 @@
 # news-website
 This website show recent news from all over of world using google news api. It has different catagory for news fetching from api like sports, business, health, technology and many more.
+Technology that I have used is: Javascript, Reactjs (functional and class components)
 
 # api used: gnews.io
 Endpoint of api is: https://gnews.io/api/v4/top-headlines
